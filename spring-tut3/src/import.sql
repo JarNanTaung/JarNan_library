@@ -1,0 +1,1 @@
+insert into user_tbl (login_id,role,password)values('admin', 'admin', 'admin');
